@@ -1,0 +1,7 @@
+C:\Users\Mayke\source\repos\ExercicioLoop\ExercicioLoop\bin\Debug\ExercicioLoop.exe.config
+C:\Users\Mayke\source\repos\ExercicioLoop\ExercicioLoop\bin\Debug\ExercicioLoop.exe
+C:\Users\Mayke\source\repos\ExercicioLoop\ExercicioLoop\bin\Debug\ExercicioLoop.pdb
+C:\Users\Mayke\source\repos\ExercicioLoop\ExercicioLoop\obj\Debug\ExercicioLoop.csproj.AssemblyReference.cache
+C:\Users\Mayke\source\repos\ExercicioLoop\ExercicioLoop\obj\Debug\ExercicioLoop.csproj.CoreCompileInputs.cache
+C:\Users\Mayke\source\repos\ExercicioLoop\ExercicioLoop\obj\Debug\ExercicioLoop.exe
+C:\Users\Mayke\source\repos\ExercicioLoop\ExercicioLoop\obj\Debug\ExercicioLoop.pdb
